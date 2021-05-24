@@ -1,6 +1,11 @@
 # QuatDE
 
+## Model Architecture
+**QuatE**
+![QuatE](QuatE_model.JPG)
 
+**QuatDE**
+![QuatDE](QuatDE_model.JPG)
 
 ## **How to run:**
 
